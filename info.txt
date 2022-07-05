@@ -1,3 +1,8 @@
 Site para testar expresssões regulares
-
 regex101.com
+
+Validação para formulários front-end
+https://joi.dev
+
+Validação para formulários back-end
+https://www.npmjs.com/package/yup
